@@ -1,1 +1,2 @@
 https://example.org/
+https://example.com/
